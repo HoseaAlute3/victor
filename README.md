@@ -1,2 +1,2 @@
-# victor project V 1.0
+# victor project
 
